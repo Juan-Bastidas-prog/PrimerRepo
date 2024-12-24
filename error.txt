@@ -1,2 +1,0 @@
-Esto es un archivo error.txt 
-Continuamos llenando contenido par ver que sucede ahora xk NO QUIERE hacer add ni COMMIT
